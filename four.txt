@@ -1,2 +1,8 @@
 four
+<<<<<<< HEAD
 44
+=======
+hello
+4
+44
+>>>>>>> staging
